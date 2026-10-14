@@ -1,0 +1,6 @@
+# Результаты прогона пересобираются командой `python -m retail_kpi`
+retail-kpi/build*/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
